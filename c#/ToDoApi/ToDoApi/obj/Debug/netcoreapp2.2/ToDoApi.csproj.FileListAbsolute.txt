@@ -1,0 +1,14 @@
+C:\Users\david.oh\Desktop\sandbox\c#\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.deps.json
+C:\Users\david.oh\Desktop\sandbox\c#\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.runtimeconfig.json
+C:\Users\david.oh\Desktop\sandbox\c#\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.runtimeconfig.dev.json
+C:\Users\david.oh\Desktop\sandbox\c#\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.dll
+C:\Users\david.oh\Desktop\sandbox\c#\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.pdb
+C:\Users\david.oh\Desktop\sandbox\c#\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.csprojAssemblyReference.cache
+C:\Users\david.oh\Desktop\sandbox\c#\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.csproj.CoreCompileInputs.cache
+C:\Users\david.oh\Desktop\sandbox\c#\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.RazorAssemblyInfo.cache
+C:\Users\david.oh\Desktop\sandbox\c#\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.RazorAssemblyInfo.cs
+C:\Users\david.oh\Desktop\sandbox\c#\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.AssemblyInfoInputs.cache
+C:\Users\david.oh\Desktop\sandbox\c#\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.AssemblyInfo.cs
+C:\Users\david.oh\Desktop\sandbox\c#\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.RazorTargetAssemblyInfo.cache
+C:\Users\david.oh\Desktop\sandbox\c#\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.dll
+C:\Users\david.oh\Desktop\sandbox\c#\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.pdb
